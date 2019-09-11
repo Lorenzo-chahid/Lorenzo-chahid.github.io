@@ -1,4 +1,4 @@
-### Welcome in my Web World or WWW :)
+# Welcome in my Web World or WWW :)
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
@@ -21,6 +21,6 @@ First some table !
 |History|Js|Markdown|
 
 
-# Link portfolio
+### Link portfolio
 
 https://lorenzo-chahid.github.io/
