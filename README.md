@@ -14,9 +14,8 @@ It's for to use the power of Markdown ! You are not sure that a markdown is the 
 
 First some table !
 
-|Code|Technologie|Passion|
-|:----||:----|:----|
-|Html/css| Heroku|IT|
-|Python||Github||Philosophy|
-|js|
-
+|Passion|Code|techno|
+|-:|----|------|
+|Philosophy|Html/css|Github|
+|Politics|Python|Heroku|
+|History|Js|Markdown|
