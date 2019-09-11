@@ -19,3 +19,8 @@ First some table !
 |Philosophy|Html/css|Github|
 |Politics|Python|Heroku|
 |History|Js|Markdown|
+
+
+# Link portfolio
+
+https://lorenzo-chahid.github.io/
