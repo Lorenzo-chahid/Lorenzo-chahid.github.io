@@ -12,3 +12,11 @@ It's for to use the power of Markdown ! You are not sure that a markdown is the 
 
 ![Alt Text](https://media.giphy.com/media/3o7TKy3KWDYOA7OUSI/giphy.gif)
 
+First some table !
+
+|Code|Technologie|Passion|
+|:----||:----|:----|
+|Html/css| Heroku|IT|
+|Python||Github||Philosophy|
+|js|
+
