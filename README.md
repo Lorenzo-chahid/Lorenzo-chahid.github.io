@@ -42,7 +42,7 @@ It's for to use the power of Markdown and make my portfolio! You are not sure th
 --------------------------------------------------------------------------
 ## Link portfolio
 
-![portfolio](https://media.giphy.com/media/eIfr3ZHWAw8g5RlSAo/giphy.gif)
+![portfolio](https://media.giphy.com/media/eIfr3ZHWAw8g5RlSAo/giphy.gif) <br />
 
 [CLICK HERE FOR MY PORTFOLIO ! ](https://lorenzo-chahid.github.io/)
 
